@@ -95,6 +95,7 @@ const questions = [
 ];
 
 
+
 const questionElement = document.getElementById("question");
 const answerbutton = document.getElementById("answer-buttons");
 const nextbutton = document.getElementById("next-btn");
