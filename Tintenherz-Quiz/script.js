@@ -17,17 +17,8 @@ const questions = [
 			{	text: "...Meggies Mutter,und Mo", correct:false},
 		]
 	},
-	    {
-		question: "Ist Meggies Mutter tot...?",
-		answers: [
-			{	text: "ja", correct:false},
-			{	text: "nein", correct:true},
-			{	text: "nein ich bin gestorben", correct:false},
-			{	text: "gute frage", correct:false},
-		]
-	},
     {
-		question: "In kapitel Ein böser tausch was hat in der nacht passiert...?",
+		question: "In kapitel Ein böser tausch was hat in der 🌙Nacht passiert...?",
 		answers: [
 			{	text: "...Es würde das falsche buch genommen von Capricorn", correct:true},
 			{	text: "...Es würde das echte Tintenherz wegenommen von Capricorn ", correct:false},
@@ -74,7 +65,7 @@ const questions = [
 	},
 
     {
-		question: "In Kapitel 8 in welcher richtung haben die gefahren...?",
+		question: "In Kapitel 8 in welcher richtung haben die gefahren🚘...?",
 		answers: [
 			{	text: "...in der richtung nördlich", correct:false},
 			{	text: "...in der richtung östlich", correct:false},
@@ -83,16 +74,25 @@ const questions = [
 		]
 	},
     {
-		question: "letzte",
+		question: "hat 🐿️gwin Horner",
 		answers: [
-			{	text: "frage", correct:false},
-			{	text: "frage", correct:false},
-			{	text: "frage", correct:false},
-			{	text: "frage", correct:true},
+			{	text: "verlicht", correct:false},
+			{	text: "nein", correct:false},
+			{	text: "ja ", correct:true},
+			{	text: "👽", correct:false},
 		]
 	},
-	
+	{
+		question: "In kapitel Damals wer hat Meggies 👩‍🦰Mutter vor gelesen...?",
+		answers: [
+			{	text: "...Elinor", correct:false},
+			{	text: "...Mo", correct:true},
+			{	text: "...Ich", correct:false},
+			{	text: "...Meggie", correct:false},
+		]
+	},	
 ];
+
 
 
 
