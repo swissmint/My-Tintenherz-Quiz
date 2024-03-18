@@ -1,33 +1,33 @@
 const questions = [
 	{
-		question: "In kapitel damals wer fällt aus dem buch als...?",
+		question: "In kapitel damals wer fällt aus dem 📕Buch als...?",
 		answers: [
 			{	text: "...Capricorn,Basta und Meggie", correct:false},
             {	text: "...Staubfinger,Basta und Capricorn", correct:true},
 			{	text: "...Staubfinger,Mo und Capricorn", correct:false},
-            {	text: "...Basta,Capicorn und Gwin", correct:true},
+            {	text: "...Basta,Capicorn und 🐿️Gwin", correct:true},
 		]
 	},
 	{
-		question: "Und wer wurde in das Buch herein genommen...?",
+		question: "Und wer wurde in das 📕Buch herein genommen...?",
 		answers: [
-			{	text: "...Meggies Mutter,Gwin und Capricorn", correct:false},
+			{	text: "...Meggies Mutter,🐿️Gwin und Capricorn", correct:false},
 			{	text: "...ich ,Elinor und Capricorn", correct:false},
-			{	text: "...zwei schwarze Katzen und Meggies Mutter", correct:true},
+			{	text: "...zwei schwarze Katzen 🐈‍⬛🐈‍⬛ und Meggies Mutter", correct:true},
 			{	text: "...Meggies Mutter,und Mo", correct:false},
 		]
 	},
     {
 		question: "In kapitel Ein böser tausch was hat in der 🌙Nacht passiert...?",
 		answers: [
-			{	text: "...Es würde das falsche buch genommen von Capricorn", correct:true},
-			{	text: "...Es würde das echte Tintenherz wegenommen von Capricorn ", correct:false},
+			{	text: "...Es würde das falsche 📙Buch genommen von Capricorn", correct:true},
+			{	text: "...Es würde das echte 📕Tintenherz wegenommen von Capricorn ", correct:false},
 			{	text: "...Es würde Mo fest genommen", correct:false},
 			{	text: "...Es würde mich fest genommen", correct:false},
 		]
 	},
     {
-		question: "Um _____ starte ich das Feueralarm?",
+		question: "Um _____ starte ich das 🔥⏰Feueralarm?",
 		answers: [
 			{	text: "3 uhr", correct:false},
 			{	text: "9 uhr", correct:true},
@@ -36,41 +36,41 @@ const questions = [
 		]
 	},
     {
-		question: 'In kapitel " Capricorn Dorf" welcher Geschichten magt Capricorn...?',
+		question: 'In kapitel " Capricorn Dorf" welcher Geschichten magt 🦄Capricorn...?',
 		answers: [
 			{	text: "...Fröhliche Geschichten mit keine blut", correct:false},
-			{	text: "...sehr Mänliche Geschichten mit schwere arbeit,schweis und blut", correct:false},
+			{	text: "...sehr Mänliche Geschichten mit schwere arbeit,💦Schweis und 🩸Blut", correct:false},
 			{	text: "...ein Youtube kanal über Capricorn", correct:false},
-			{	text: "...sehr schreckliche Geschichten über mord", correct:true},
+			{	text: "...sehr schreckliche Geschichten über 🧛mord", correct:true},
 		]
 	},
     {
-		question: "in Kapitel Der Verratene veräter was haben Capricorn hauptsachlich was angezündet..?",
+		question: "in Kapitel Der Verratene veräter was haben 🦄Capricorn hauptsachlich was 🔥🪵angezündet..?",
 		answers: [
-			{	text: "...Die haben die Kirche angezündet", correct:false},
-			{	text: "...Die haben falsche Buch angezündet", correct:false},
-			{	text: "...Die haben Tintenherz herz angezündet", correct:true},
+			{	text: "...Die haben die ⛪Kirche angezündet", correct:false},
+			{	text: "...Die haben falsche 📙Buch angezündet", correct:false},
+			{	text: "...Die haben -📕Tintenherz angezündet", correct:true},
 			{	text: "...Die haben mich angezündet", correct:false},
 		]
 	},
 
     {
-		question: "Hat Elinor Feuer gern?",
+		question: "Hat Elinor 🔥Feuer gern...?",
 		answers: [
-			{	text: "ja", correct:false},
-			{	text: "verleicht", correct:false},
-			{	text: "nein", correct:true},
-			{	text: "jein🤔", correct:false},
+			{	text: "...ja", correct:false},
+			{	text: "...verleicht", correct:false},
+			{	text: "...nein", correct:true},
+			{	text: "...jein🤔", correct:false},
 		]
 	},
 
     {
 		question: "In Kapitel 8 in welcher richtung haben die gefahren🚘...?",
 		answers: [
-			{	text: "...in der richtung nördlich", correct:false},
-			{	text: "...in der richtung östlich", correct:false},
-			{	text: "...in der richtung südlich", correct:true},
-			{	text: "...oder in der richtung westlich", correct:false},
+			{	text: "...in der richtung  ⬆️nördlich", correct:false},
+			{	text: "...in der richtung  ➡️östlich", correct:false},
+			{	text: "...in der richtung   ⬇️südlich", correct:true},
+			{	text: "...oder in der richtung  ⬅️westlich", correct:false},
 		]
 	},
     {
