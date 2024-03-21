@@ -10,4 +10,4 @@ if you know then make a commit i'll look in some time
 
 
 ps:<br>
-i don't own nor claim inkheart this is just a fan project of the book
+i don't own nor claim inkheart, this is just a fan project of the book
