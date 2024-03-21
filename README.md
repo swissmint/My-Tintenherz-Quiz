@@ -1,7 +1,7 @@
 # Tintenherz-Quiz
 
 just download the zip, extract and open <br>
-the .html file in your favorite webbrowser.
+the quiz.html file in your favorite webbrowser.
 
 ## Note:
 i dont know if this infringes on copyright <br>
