@@ -1,7 +1,8 @@
 # Tintenherz-Quiz
 
-just download the zip, extract in Downloads(<strong>do not extract it in <br>
-tmp or somewhere else </strong>)and open the .html file in your favorite webbrowser.
+just download the zip, extract in Downloads
+(<strong>do not extract it in tmp or somewhere else </strong>)<br>
+and then open the .html file in your favorite webbrowser.
 
 
 ## Note:
