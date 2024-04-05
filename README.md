@@ -2,7 +2,7 @@
 
 
 just download the zip in Downloads, (<strong>extract it in Downloads or it doesn't work!!!</strong>)<br>
-and then open the .html file in your favorite webbrowser.
+and then open the quiz.html file in your favorite webbrowser.
 
 
 ## Note:
