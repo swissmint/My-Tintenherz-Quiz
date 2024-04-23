@@ -1,6 +1,6 @@
 const questions = [
 	{
-		question: "In kapitel damals wer fällt aus dem 📕Buch als...?",
+		question: 'In Kapitel "Damals":Wer fällt aus dem 📕Buch...?',
 		answers: [
 			{	text: "...Capricorn,Basta und Meggie", correct:false},
             {	text: "...Staubfinger,Basta und Capricorn", correct:true},
@@ -18,16 +18,16 @@ const questions = [
 		]
 	},
     {
-		question: "In kapitel Ein böser tausch was hat in der 🌙Nacht passiert...?",
+		question: 'In Kapitel "Ein böser Tausch": Was ist in der 🌙Nacht passiert...?',
 		answers: [
-			{	text: "...Es würde das falsche 📙Buch genommen von Capricorn", correct:true},
-			{	text: "...Es würde das echte 📕Tintenherz wegenommen von Capricorn ", correct:false},
-			{	text: "...Es würde Mo fest genommen", correct:false},
-			{	text: "...Es würde mich fest genommen", correct:false},
+			{	text: "...Es wurde das falsche 📙Buch von Capricorn genommen", correct:true},
+			{	text: "...Es wurde das echte 📕Tintenherz von Capricorn wegenommen", correct:false},
+			{	text: "...Mo wurde fest genommen", correct:false},
+			{	text: "...Ich wurde fest genommen", correct:false},
 		]
 	},
     {
-		question: "Um _____ starte ich das 🔥⏰Feueralarm?",
+		question: "Um wie viel Uhr start das 🔥⏰Feueralarm?",
 		answers: [
 			{	text: "3 uhr", correct:false},
 			{	text: "9 uhr", correct:true},
@@ -36,21 +36,21 @@ const questions = [
 		]
 	},
     {
-		question: 'In kapitel " Capricorn Dorf" welcher Geschichten magt 🦄Capricorn...?',
+		question: 'In Kapitel "Capricorn Dorf":Welcher Geschichten mag 🦄Capricorn...?',
 		answers: [
-			{	text: "...Fröhliche Geschichten mit keine blut", correct:false},
-			{	text: "...sehr Mänliche Geschichten mit schwere arbeit,💦Schweis und 🩸Blut", correct:false},
-			{	text: "...ein Youtube kanal über Capricorn", correct:false},
-			{	text: "...sehr schreckliche Geschichten über 🧛mord", correct:true},
+			{	text: "...Fröhliche Geschichten ohne Blut", correct:false},
+			{	text: "...sehr männliche Geschichten mit schwere arbeit,💦Schweiss und 🩸Blut", correct:false},
+			{	text: "...ein Youtube Kanal über Capricorn", correct:false},
+			{	text: "...sehr schreckliche Geschichten über 🧛Mord", correct:true},
 		]
 	},
     {
-		question: "in Kapitel Der Verratene veräter was haben 🦄Capricorn hauptsachlich was 🔥🪵angezündet..?",
+		question: 'Im Kapitel "Der Verratene Veräter": Was hat 🦄Capricorn hauptsachlich 🔥🪵angezündet..?',
 		answers: [
-			{	text: "...Die haben die ⛪Kirche angezündet", correct:false},
-			{	text: "...Die haben falsche 📙Buch angezündet", correct:false},
-			{	text: "...Die haben -📕Tintenherz angezündet", correct:true},
-			{	text: "...Die haben mich angezündet", correct:false},
+			{	text: "...er hat die ⛪Kirche angezündet", correct:false},
+			{	text: "...er hat das falsche 📙Buch angezündet", correct:false},
+			{	text: "...er hat -📕Tintenherz angezündet", correct:true},
+			{	text: "...er hat mich angezündet", correct:false},
 		]
 	},
 
@@ -58,32 +58,32 @@ const questions = [
 		question: "Hat Elinor 🔥Feuer gern...?",
 		answers: [
 			{	text: "...ja", correct:false},
-			{	text: "...verleicht", correct:false},
+			{	text: "...vielleicht", correct:false},
 			{	text: "...nein", correct:true},
 			{	text: "...jein🤔", correct:false},
 		]
 	},
 
     {
-		question: "In Kapitel 8 in welcher richtung haben die gefahren🚘...?",
+		question: "In Kapitel 8:In welche Richtung fahren🚘 sie...?",
 		answers: [
-			{	text: "...in der richtung  ⬆️nördlich", correct:false},
-			{	text: "...in der richtung  ➡️östlich", correct:false},
-			{	text: "...in der richtung   ⬇️südlich", correct:true},
-			{	text: "...oder in der richtung  ⬅️westlich", correct:false},
+			{	text: "...in Richtung  ⬆️Norden", correct:false},
+			{	text: "...in Richtung  ➡️Osten", correct:false},
+			{	text: "...in Richtung   ⬇️Süden", correct:true},
+			{	text: "...oder in Richtung  ⬅️Westen", correct:false},
 		]
 	},
     {
-		question: "hat 🐿️gwin Horner",
+		question: "hat 🐿️Gwin Hörner",
 		answers: [
-			{	text: "verlicht", correct:false},
+			{	text: "vielleicht", correct:false},
 			{	text: "nein", correct:false},
 			{	text: "ja ", correct:true},
 			{	text: "👽", correct:false},
 		]
 	},
 	{
-		question: "In kapitel Damals wer hat Meggies 👩‍🦰Mutter vor gelesen...?",
+		question: "In Kapitel "Damals":Wer las Meggies 👩‍🦰Mutter vor...?",
 		answers: [
 			{	text: "...Elinor", correct:false},
 			{	text: "...Mo", correct:true},
