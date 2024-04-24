@@ -8,6 +8,7 @@ body {
 	background-color:#352144;
 	background-image: url("photos/autumn-foto.jpg");
 	background-size: cover;
+  min-height: 100vh;
 }
 header {
   background-image: linear-gradient(to bottom right, rgb(255, 0, 0), rgb(255, 136, 0));
@@ -24,6 +25,8 @@ footer {
   padding: 20px;
   text-align: left;
   color: white;
+  position: sticky;
+  top: 100%;
 }
 p {
   text-align: left;
