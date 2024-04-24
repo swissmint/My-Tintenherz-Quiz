@@ -3,9 +3,9 @@ const questions = [
 		question: 'In Kapitel "Damals":Wer fällt aus dem 📕Buch...?',
 		answers: [
 			{	text: "...Capricorn,Basta und Meggie", correct:false},
-            {	text: "...Staubfinger,Basta und Capricorn", correct:true},
+            	{	text: "...Staubfinger,Basta und Capricorn", correct:true},
 			{	text: "...Staubfinger,Mo und Capricorn", correct:false},
-            {	text: "...Basta,Capicorn und 🐿️Gwin", correct:true},
+            	{	text: "...Basta,Capicorn und 🐿️Gwin", correct:true},
 		]
 	},
 	{
