@@ -25,9 +25,9 @@ footer {
   padding: 20px;
   text-align: left;
   color: white;
-  position: sticky;
+  position: sticky !important;
   top: 100%;
-  margin-top: 250px;
+  margin-top: 300px !important;
 }
 p {
   text-align: left;
